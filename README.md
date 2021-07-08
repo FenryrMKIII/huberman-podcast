@@ -1,3 +1,10 @@
+# Foreword
+This is a side project that I lead aside my main activity. 
+
+If you find the resource useful, any support is appreciated. 
+
+https://paypal.me/jrmBulle?locale.x=fr_FR
+
 # Objective
 
 Hello everyone !
