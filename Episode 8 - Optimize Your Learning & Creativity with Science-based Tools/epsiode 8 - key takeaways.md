@@ -1,32 +1,30 @@
-# Key takeaway 1 : The way to create plasticity is to induce errors on how one performs things
-Repeated mistmatches or errors will induce plasticity.
+# Key takeaway 1 : Recognize your level of autonomic arousal (alterness) and adjust
+The actions to take (e.g. listening to music, drinking coffee, ...) depends on your own level of autonomic arousal.
+And this depends on many factors (your sleep, time of day, other parameters).
 
-This behaviour sends signal to the brain that something is wrong. And this creates the right neurochemicals cocktail to trigger plasticity
+It's up to everybody to recognize their level and adjust accordingly.
 
-# Key takeaway 2 : Frustration is the feeling to pursue
-When making errors, when not achieving something, generally frustration will build up. And that feeling of frustration is actually the key to plasticity !
+A high-level of autonomic arousal (the GO pathway) will bias someone towards action and will make someone less good at suppressing action.
+So in that state, it will probably be better to turn off the phone, computer, music, ...
 
-So when one feels frustration building up, one must keep going at the current task because that feeling of frustration is actually the signal that plasticity is opening up.
-And if one stops doing what he was doing at that moment ... Then that plasticity will serve to match whatever next action follow and this usually is feeling not very well. 
+# Key takeaway 2 : The sweet spot
+There exists a sweet spot for learning that allows one to pursue action (go pathway) and therefore learn but also to suppress undesired action (e.g. distractions).
 
-So this is very important to understand. Plasticity is not linked to a task. Plasticity is linked to a chemical bath. And if when that chemical bath is there one is doing something else (another task) or feelign something not good, that plasticity will serve to anchor that task or feeling to the nervous system. 
+# Key takeway 3 : The environment counts
+A cluttered environment tends to make us more alert because we have a lot of things (objects, sounds, ...) to scan for (threats). This our salience network at work. 
 
-# Key takeway 3 : Adults can only tolerate small errors. But incremental learning allows for significant plasticity
+This is why some people that are used to live in cluttered environment (e.g. busy city), when they go to a retreat, become very anxious because their salience network that is always very active has nothing to scan for anymore and therefore turns inwards. 
 
-Experiments have shown that young people can tolerate huge errors and make huge changes at once in their nervous system.
+# Key takeaway 4 : Exercise in the morning and/or fasted state
+Exercise in the morning promotes alertness.
+Similarly fasted state and particularly low-carbs states promote alertness. This is because carbs are riched in tryptophan and tryptophan biases us towards sleepiness (precursor to melatonin).
 
-The adult brain can't do that. The adult brain cannot tolerate huge errors e.g. complete change in the visual representation map. 
-The only way to get significant plasticity as an adult is to make smaller mistakes and stacks the learning of these incremental mistakes.
+Now eating any large amount of foods (carbs or not) will divert blood to your gut and will therefore drive energy and remove that energy availability for other things like learning. 
 
-In other words, to learn efficiently as an adult, one must undergo smaller training bouts.
+# Key takeaway 5 : Drinking a lot of water and ingesting caffeinated drinks dehydrate oneself
+If one is drinking a lot of water coupled with caffeinated drinks (water, tea), one can dehydrate oneself through loss of electrolytes (sodium).
+If that happens (shaky, feeling headache) drinking a salty glass of water can help (provided one does not have hypertension). 
 
-# Key takeaway 4 : Failing at basketball to learn maths
-When one fails at a specific task e.g. basketball free throws, plasticity opens up not just for those free throws but for any activity. Indeed, plasticity is a state that is not specific to a task. 
-
-So if following the free throws, when frustration has built up, one moves on to what they want to learn (e.g. maths), then this plasticity will be available to learn that one thing.
-
-# Key takeaway 5 : Learning rate is proportional to the emergency
-Learning rate (plasticity) can be quite significant as an adult (and mimic young individuals learning rate) if and only if there is a matching emergency e.g. getting food, surviving, ... 
 
 # Key takeaway 6 : Spending 7 to 30 minutes within an ultradian cycle (90 minutes) making errors open up plasticity
 In episode 6, Andrew explained that adults learn best within ultradian cycles of 90 minutes. In episode 7, Andrew adds up the fact that one can improve these ultradian cycles by spending anywhere between 7 to 30 minutes making errors to improve this 90 minutes learning bout. 
