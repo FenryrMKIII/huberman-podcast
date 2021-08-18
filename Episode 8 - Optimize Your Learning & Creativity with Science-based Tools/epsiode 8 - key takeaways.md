@@ -26,20 +26,38 @@ If one is drinking a lot of water coupled with caffeinated drinks (water, tea), 
 If that happens (shaky, feeling headache) drinking a salty glass of water can help (provided one does not have hypertension). 
 
 
-# Key takeaway 6 : Spending 7 to 30 minutes within an ultradian cycle (90 minutes) making errors open up plasticity
-In episode 6, Andrew explained that adults learn best within ultradian cycles of 90 minutes. In episode 7, Andrew adds up the fact that one can improve these ultradian cycles by spending anywhere between 7 to 30 minutes making errors to improve this 90 minutes learning bout. 
+# Key takeaway 6 : Creativty requires a different state
+When one has alterness and is good at suppressing the no-go pathway, that's a state when one is good at linear implementation.
+When one is almost sleepy (e.g. coming out of the NSDR) but has a kind of clear common focus state, and is feeling relaxed, that's a state when one will be good at creativity. Novel arrangements of things, ...
 
-# Key takeaway 7 : Learn to subjectively attach dopamine to practices that enhance you
-Dopamine is the chemical linked to motivation. It's a feel good chemical that makes us want more of the things we are doing/experiencing. 
+# Key takeaway 7 : Beware of statements about gluconeogenesis
+Keto people are stating that gluconeogenesis allows replenishing glycogen stores. Huberman says that, to him, this is a lie but it works for people who are under hormones enhancing drugs. 
 
-And one can take that to its advantage by subjectively enjoying something that enhances him. For example, one can learn to enjoy the process of making errors because he knows that through this he is learning faster and therefore getting closer to its goal which is a good thing.
+So, for Huberman, having carbohydrates is necessary for replenishing glycogen stores efficiently. And he advises to do it in the evening because it biases calmness (through tryptophan). 
 
-Doing this will create synergy between the dopamine system and the plastic system. 
+# Key takeaway 8 : Pre-sleep anxiety is normal and easy to solve
+Near the end of the day, it's not uncommon to experience a raise in wakefulness. People go to sleep, they are tired, and when they enter their bed they feel right awake again.
 
-# Key takeaway 8 : Make your State match your Intent
-For learning, one learned from episode 6 that alertness is needed. So if you are too sleep, you can't engage in a learning bout, you can't reach the starting line for engaging in it. Similarly, if you need to engage in learning a bit of maths and you are so amped up you just want to jump aroud, that's not going to work either. Andrew Huberman calls that limbic friction. A mismatch between the State you are in, and the State you should be in for the particular activity you are trying to engage in.
+This is normal. It's believed to be linked to the need for humans to protect themselves before a good night sleep when humans were vulnerable to attacks from animals or other humans. 
 
-Tools exist to ramp up or calm down the autonomic nervous system and therefore reach the desired state. To calm down, double inhale long exhale can be used. Or engage in a non-tunnel vision. To amp up, super oxygenation techniques can be used. There are many others. 
+The best way not to get anxious about that is knowing that it exists and taking it as an opportunity to maybe organize the next day, ... but certainly not stressing about that blip in alterness. It's normal, it's expected. 
+
+# Key takeaway 9 : Waking up in the middle of the night is the norm
+Waking up in the middle of the night, say around 4 am if one went to bed at 10-11pm is normal. It shouldn't be considered sleep disorder and should not make one anxious about his sleep. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Key takeaway 9 : Vestibular system errors open up plasticity as well
 Errors in the vestibular system (i.e. balance system) trigger plasticity. Indeed, a correct balance is key for survival. Therefore, any error there needs to be corrected fast. 
