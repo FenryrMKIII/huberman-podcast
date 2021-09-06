@@ -42,45 +42,35 @@ And a study showed that performing such breathing allowed to combat infection ve
 # Key takeaway 9 : If short-term stress is good ... What is too much stress ?
 Too much stress is when it comes complicated to get a good night sleep.
 
+# Key takeaway 10 : Midterm stress, a definition 
+Midterm stress is when one feels that any additional stress would tip him over the edge or when he realizes that some little things make him react way more than usually (small frustrations turn into big events, ...)
 
+# Key takeaway 11 : How to handle midterm stress : stress inoculation
+Better handling midterm stress requires one to perform something similar to exposure therapy.
+One needs to expose himself to stress and to learn to handle that stress in a kind of peaceful way mentally. 
 
+So, in some way, it's contrary to the popular saying that body and mind must be one. In fact here, according to Andrew, it's all about dissociating the body and the mind. You body is exposed to stress but the mind msut learn to remain calm when faced with the stress response. 
 
- 
+One practical tool to perform this dissociation is through the vision. One when stresses out, the pupils dilate and create tunnel vision. Therefore, by doing the contrary of tunnel vision, which is enlarging our vision, having a sort of panoramic view (this does not mean turning your head left and right it means enlarging your field of vision, not focussing on one specific point in your vision), this will calm the system down by playing with the autonomic nervous system. 
 
+# Key takeaway 12 : Long-term stress
+Long-term stress issues are linked to the Serotonin system. And to increase serotonin, people need to do things they love or to connect to things they love (things, pets, people). It's why some antidepressants drugs use the serotonin pathway. The issue with that is that serotonin blunts some aspects of our life because it's a "I have enough" neuromodulator and therefore people may suffer from a lack of libido and things like that. 
 
+# Key takeaway 13 : Tackykinin
+If someone does not have enough social interactions, Tackykinin which is a sinister molecule will start building-up signaling one that he does not spend enough time with people he trusts. 
 
+Tackykinin is like an irritant to our system. It depletes good functions (immunity, ...) and increases bad ones (fear, irritability, paranoia, ...)
 
+# Key takeaway 13 : Gratitude
+Taking sometime to recognize your moments of bliss, delight, joy, ... can positively impact long-term stress. That's why personal journaling helps some people. Because they realize they have those moments in their life and this is enough to trigger the serotonin pathway. 
 
+# Key takeaway 14 : There is no such thing as adrenal burnout
+Adrenals have enough to support 200 years of stress. However, there is something called adrenal insufficiency with impaired adrenals that can make it seem like adrenal burnout. 
 
+# Key takeaway 15 : Matching internal state with external state is key
+When our internal state (stress or calmness) matches the demand imposed on us (external state), then that's good. The opposite is true. And it works both ways. So feeling (internal model) stressed about something that actually turns out to be easy isn't good as well as feeling calm about something that actually turns out to be though isn't good either. 
 
-
-# Key takeaway 9 : Love blunts the pain
-Experiments have shown that when people were thinking about somebody (or something or a pet) they truly love, they are able to withstand higher pain thresholds. Or the pain feels lesser. 
-
-And people obssessed with someone have that effect even greater. 
-
-In fact this is not truly love that blocks the pain... it's more the dopamine associated to that that blunts the pain.
-
-# Key takeaway 10 : Acupunture ... The scientific data
-Acupuncture works to deal with the pain. And it does so through dopamine. 
-
-Acunpuncture is now studied extensively. And these studies have shown the close relationship between the somatosensory system and the nervous system as well as the ability through this communication to raise or lower the autonomic state. 
-The studies show that depending on the intensity of the signal (heat or electricity or needle) and the location of the signal (where in the body), you can get very different response. So one can't say acunpunture is good or acupuncture is bad. Because depending on how you apply acupuncture, you can get one effect or the opposite. For example, strong stimulation of the midsection (think core) increases inflammation. Now inflammation is generally not desired if everything is fine but if the individual is facing some infection in his guts or stomach, that could be useful. 
-
-# Key takeaway 11 : The IceMan breathing (aka Wim Hof)
-Wim Hof practices breathing patterns that (and this has been monitored under clinical setup) can help combat infection or diseases. And this is no magic trick. It's just that the type of breathing he does trigger an increase of adrenaline. It triggers the stress response. And the stress response helps fight infection.
-
-This is an embedded mechanism within humans to help our survival. When conditions are tough (cold, hunger), our bodies increase the adrenaline so that we can be active (search for food, ...) but also so that we don't get sick. And usually, when things get better and the stress response stop (hopefully), that's when people get sick (getting sick after hard period of work ? hard period of exams ?).
-
-So such response and increase of immunity can be triggered by breathing practices but it can basically be triggered by anything that increases the adrenaline (sport practices, ice baths, ...)
-
-# Key takeaway 12 : Injury : don't ice
-For an injury (sprained ankle, muscle tear, ...) the typical go-to is to ice it. Well in fact you shouldn't. Ice acts as an analgesic but it slows down the healing process by increasing the viscosity of the fluids, by creating fascia sludge, ... While when injured you actually want things moving (macrophages that carry the debris) and gliding (fascia, adhesions). Furthermore, it has been shown that when cooling neural pathways, the pathway gets numbed down. But when cooling is removed, the pathway triggers again with a greater intensity. In the case of a pain pathway ... With greater pain !
-
-So for an injury, the big three are in fact : sleep, movement and heat. For movement, one wants to make movements that DO NOT increase the pain or the injury. So a slow walk. At least 10 minutes.
-
-
-
+And this mismatch, in the emotional context, is called valence. 
 
 
 
