@@ -1,3 +1,35 @@
+# Key takeaway 1 : Some corrections
+Stevia was previously lumped with artificial sweetners. It's not. It's a non-caloric sweetener. And apparently, based on available data, it does not disturb the gut microbiome. 
+
+However take care, anything sweet even non-caloric wil create an insulin response. In fact, even passing by a bakery can trigger an insulin response through the smell. The body is that smart...
+
+# Key takeaway 2 : Metabolism, it's not just about a sexy body
+Metabolism is the energy consumption of the entire body. And that includes consuming energy for moving, for repairing tissues, for building tissues and also for brain function. The brain consumes about 70 to 80% of the energy per day. 
+
+In other words, having a great metabolism will improve all those functions : building more muscles, thinking more clearly, ...
+
+# Key takeway 3 : Thyroid hormones : involved in energy consumption & tissue repair/construction
+Thyroid hormones will promote energy consumption (fats & sugars) and tissue repair or production. So having a correctly working thyroid will mean generally leaner body, more muscular body, better ability to recover. 
+
+# Key takeaway 4 : To make thyroid hormone, you need iodine, l-thyrsoine & selenium.
+Usually, people will have enough iodine & l-thyrosine. But it may happen that they don't and therefore they will need to supplement.
+
+Selenium, huberman believes most people could be better ingesting a little bit more of selenium. Recommendation varies, between 100 and 200 micrograms per day. Brazil nuts are the heavyweight champion of foods to get Selenium.
+
+# Key takeaway 5 : "Clean" diets can have adverse effects
+Clean diets so people eating a lot of vegetables, especially the cruciferous might need to increase iodine consumptions. Similarly, people who are more on a carnivore-like diet shall maybe also increase their iodine consumpations. 
+
+# Key takeaway 6 : Growth hormone and thyroid hormones are very similar
+Growth hormone acts in very similar ways to thyroid hormones : promoting bones, ligaments, ... growth and repair. 
+
+# Key takeaway 7 : Growth hormone is released during early part of sleep, during slow wave sleep also called deep sleep
+Growth hormone is released every night when you go to sleep. And it's released in the early part of sleep during so called slow wave sleep.
+The other condition to get GH released is to have blood glucose and insulin low. So don't eat within two hours prior to go to sleep. 
+
+# Key takeaway 8 : Delta waves product growth hormones
+Slow wave sleep is actually associated to delta waves. And therefore, if one can get the brain to produce delta waves during the day, one can increase growth hormone production. 
+
+Meditation practice can increase delta wave activity. Neural beats is potentially possible alough no solide reasearch exists on that according to Huberman. 
 
 
 
@@ -6,43 +38,6 @@
 
 
 
-
-
-# Key takeaway 1 : Salutogenesis or seeing half-full rather than half-empty
-Salutogenesis is the opposite side of the pathogenic model. In the pathogenic model, one exhibits a particular behavior because it will keep him from being sick, ... Salutogenesis is considering this same behavior but with the mindset that it will draw him toward a healthy state.
-
-And it's not just semantic. Remember in a previous episode, if people were told that this or that behavior was good for them, analysis showed that they would get increased benefits compared to a people that were not told that.
-
-And apparently, the best approach is to combine both models when undertaking a behavior.
-
-# Key takeaway 2 : Testosterone and estrogen ratios are important
-Testosterone and estrogen are sex steroids. They are produce by everyone. And it's their ratios that is important and that will drive many things like well-being, optimism, anxiety, sexual behavior, ...
-
-Therefore, optimizing hormones comes to optimizing ratios of testosterone and estrogen. 
-
-# Key takeway 3 : Competition promotes testosterone releases
-Sex steroids hormones (testosterone and estrogen) are released from the adrenals. And competition promotes the releases of testosterone and its derivates. And it's a two-way streets like many things in the human body i.e. testosterone influences competition. 
-
-# Key takeaway 4 : Testosterone fights anxiety, promotes novelty seeking and competitive interactions
-
-
-# Key takeaway 5 : Amygdala as the center of threat detection and testosterone as its modulator
-The amygdala if often refer to as the center of fear. According to Huberman, it's more like a center of threat detection. It's what what sets one's threshold about what is too much or scary. 
-
-And testosterone binds to the amygdala and is able to change that threshold.
-
-# Key takeaway 6 : Testosterone and estrogen are both needed for libido
-High levels of testosterone promotes sex seeking behavior in both males and females. But estrogen levels will promote receptivity to mating in females. And in males, estrogen are necessary for libido. Without estrogen, males lose all libido. So again it's the ratio that is important. 
-
-# Key takeaway 7 : Does the act of sex increase testosterone ? A nuanced answer
-Watching sex increases testosterone slightly (10%). The act of sex increases testosterone significanly (70%). Abstinence during a week or sex without ejaculation increases testosterone tremendously (400%).
-
-# Key takeaway 8 : New (or expecting) father ? Congrats! You are 50% lower in testosterone
-Some bevhiors lower testosterone and estrogen. For example, becoming (or expecting to become) a father significantly lowers testosterone. While there will be an increase in prolactin.
-
-And this has for consequence e.g. that fathers usually put more body fat.
-
-Also, again, two-way streets. Parenting more, being closer to the child will reinforce this decrease in testosterone/increase in prolactin. And the oppositve (being away from the child) will reduce the time-window during which the testosterone is decreased (and prolactin decreased) and the male will therefore be able to resume to sex seeking behavior sooner.
 
 # Key takeaway 9 : Human pheromones
 Hormone = chemical that impacts things within the host. Pheromone = chemical that impacts things outside the host (e.g. female from the same species). 
