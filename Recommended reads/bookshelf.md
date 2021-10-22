@@ -8,12 +8,14 @@
 - Jaws : the story of a hidden epidemic
 
 # Neuromodulators
-- Dopamne, the molecule of more
+- Dopamine, the molecule of more
 
 # Emotions
 - how emotions are made
 - seven and a half facts about the brain
 
+# Hormones
+- Altered traits
 # Focus
 - Deep work
 

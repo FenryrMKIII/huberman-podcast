@@ -22,14 +22,19 @@ Clean diets so people eating a lot of vegetables, especially the cruciferous mig
 # Key takeaway 6 : Growth hormone and thyroid hormones are very similar
 Growth hormone acts in very similar ways to thyroid hormones : promoting bones, ligaments, ... growth and repair. 
 
-# Key takeaway 7 : Growth hormone is released during early part of sleep, during slow wave sleep also called deep sleep
+# Key takeaway 7 : Don't eat two hours prior to sleep to optimize growth hormone release
 Growth hormone is released every night when you go to sleep. And it's released in the early part of sleep during so called slow wave sleep.
 The other condition to get GH released is to have blood glucose and insulin low. So don't eat within two hours prior to go to sleep. 
 
 # Key takeaway 8 : Delta waves product growth hormones
 Slow wave sleep is actually associated to delta waves. And therefore, if one can get the brain to produce delta waves during the day, one can increase growth hormone production. 
 
-Meditation practice can increase delta wave activity. Neural beats is potentially possible alough no solide reasearch exists on that according to Huberman. 
+Meditation practice can increase delta wave activity. Binaural beats (specific tones played in right and left ears) is potentially possible alough no solide reasearch exists on that according to Huberman. 
+
+# Key takeaway 9 : 16 minutes of endurance or weight training exercise boosts your growth hormone
+Specific duration and intensity of exercise boosts growth hormone. 60 minutes, not much longer. 
+
+Longer training bouts increase cortisol and according to Huberman that's why people who overexercise or exercise a lot can lose their menstrual cycle for example. Indeed, high enough levels of cortisol inhibit testosterone and oestrogen pathways. 
 
 
 
@@ -38,11 +43,6 @@ Meditation practice can increase delta wave activity. Neural beats is potentiall
 
 
 
-
-# Key takeaway 9 : Human pheromones
-Hormone = chemical that impacts things within the host. Pheromone = chemical that impacts things outside the host (e.g. female from the same species). 
-
-Pheronomones in human are controversial because the organ still hasn't been clearly identified. But there are experiences pointing to such phenomenon. For example, women being able to find the t-shirt of their loved one among hundreds of others and t-shirts having been washed a hundred times.
 
 # Key takeaway 10 : Apnea changes hormonal levels
 Studies have shown that apnea changes hormonal levels i.e. testosterone and estrogen. Probably because there are testosterone and estrogen receptors in the viscera and the lungs in particular. But the directionality of the chanes is not clear. 
